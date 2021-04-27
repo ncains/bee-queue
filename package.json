@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "promise-callbacks": "^3.0.0",
-    "redis": "^2.7.1"
+    "redis": "^3.1.1"
   },
   "devDependencies": {
     "ava": "^0.21.0",
